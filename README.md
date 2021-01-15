@@ -1,5 +1,6 @@
 Skew Heap
 ====================
+Building with Travis: [![Build Status](https://www.travis-ci.com/danielScLima/SkewHeap.svg?branch=master)](https://www.travis-ci.com/danielScLima/SkewHeap)
 
 This repository has a project with the implementation of a Skew Heap.
 
