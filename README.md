@@ -1,5 +1,7 @@
 Skew Heap
 ====================
+Building with AppVeyor: [![Build status](https://ci.appveyor.com/api/projects/status/dqe9qrcjffjwdrii?svg=true)](https://ci.appveyor.com/project/DanielSLima/skewheap)
+
 Building with Travis: [![Build Status](https://www.travis-ci.com/danielScLima/SkewHeap.svg?branch=master)](https://www.travis-ci.com/danielScLima/SkewHeap)
 
 This repository has a project with the implementation of a Skew Heap.
